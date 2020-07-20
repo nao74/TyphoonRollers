@@ -21,3 +21,5 @@
 # 使用言語
 
 # 開発環境
+- Visual Studio 2010
+- XNA Game Studio 3.0
