@@ -13,7 +13,8 @@
 # 動画
 
 # ゲーム起動方法
-
+- TyphoonRollers/TyphoonRollers/bin/x86/Debug/TyphoonRollers.exe
+　　　　
 # 操作方法
 - A 　決定
 - B 　キャンセル
