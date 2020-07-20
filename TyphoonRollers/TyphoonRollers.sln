@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TyphoonRollers", "TyphoonRollers\TyphoonRollers\TyphoonRollers.csproj", "{13251C1B-4908-4369-877A-759AD9935786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TyphoonRollersContent", "TyphoonRollers\TyphoonRollersContent\TyphoonRollersContent.contentproj", "{13DE6520-1DB4-4B52-A820-49528FAAE102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13251C1B-4908-4369-877A-759AD9935786}.Debug|x86.ActiveCfg = Debug|x86
+		{13251C1B-4908-4369-877A-759AD9935786}.Debug|x86.Build.0 = Debug|x86
+		{13251C1B-4908-4369-877A-759AD9935786}.Release|x86.ActiveCfg = Release|x86
+		{13251C1B-4908-4369-877A-759AD9935786}.Release|x86.Build.0 = Release|x86
+		{13DE6520-1DB4-4B52-A820-49528FAAE102}.Debug|x86.ActiveCfg = Debug|x86
+		{13DE6520-1DB4-4B52-A820-49528FAAE102}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA0B94A-EE4B-4384-941A-488D9A3E0B3A}
+	EndGlobalSection
+EndGlobal

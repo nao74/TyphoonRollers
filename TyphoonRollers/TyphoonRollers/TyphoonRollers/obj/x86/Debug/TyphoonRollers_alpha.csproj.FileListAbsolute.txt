@@ -1,0 +1,103 @@
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Player.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\yuka.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\exit_white.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\exit_yellow.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\option_white.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\option_yellow.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\start_white.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\start_yellow.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\FBX\8AB23516\Enemy.fbm\outUV2_0.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro_0.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\TyphoonRollers_alpha.exe
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\TyphoonRollers_alpha.pdb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\ja-JP\Microsoft.Xna.Framework.resources.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\ja-JP\Microsoft.Xna.Framework.Game.resources.dll
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.csprojResolveAssemblyReference.cache
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.exe
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.pdb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\PlayerMini.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1.xnb
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1_tx_0.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.exe
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.pdb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Player.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\yuka.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\PlayerMini.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\exit_white.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\exit_yellow.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\option_white.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\option_yellow.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\start_white.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\start_yellow.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro_0.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\FBX\87502A5B\Enemy.fbm\outUV2_0.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1_tx_0.xnb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\TyphoonRollers_alpha.exe
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\TyphoonRollers_alpha.pdb
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\ja-JP\Microsoft.Xna.Framework.resources.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\ja-JP\Microsoft.Xna.Framework.Game.resources.dll
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.csprojResolveAssemblyReference.cache
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.exe
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.pdb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\TyphoonRollers_alpha.exe
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\TyphoonRollers_alpha.pdb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.csprojAssemblyReference.cache
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.csproj.CoreCompileInputs.cache
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\obj\x86\Debug\TyphoonRollers_alpha.csproj.CopyComplete
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Model\Player.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Model\PlayerMini.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Model\Enemy.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\ParticleTexture\Rot.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Particle\ParticleEffect.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\jiki4_0.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\jiki4_1.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Texture\Menu.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Texture\MenuSelected.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Texture\TitleLogo.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Texture\Title.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Model\stage.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\outUVh2_0.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\outUVst2_0.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\outUVkk2_0.xnb
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\outUV2_0.xnb

@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Player.fbx</Source>
+      <Name>Player</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2018-09-08T00:25:32+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Player_0.xml</Key>
+        <Value>2018-10-29T17:23:43.7846572+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>yuka.fbx</Source>
+      <Name>yuka</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\yuka.xnb</Output>
+      <Time>2008-06-09T17:29:46+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\yuka_0.xml</Key>
+        <Value>2018-10-29T17:23:43.9265274+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Enemy.fbx</Source>
+      <Name>Enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\Enemy.xnb</Output>
+      <Time>2018-09-18T16:35:10+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Enemy_0.xml</Key>
+        <Value>2018-10-29T17:23:44.0438155+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\FBX\87502A5B\Enemy.fbm\outUV2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>PlayerMini.fbx</Source>
+      <Name>PlayerMini</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\PlayerMini.xnb</Output>
+      <Time>2018-10-19T08:33:16+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\PlayerMini_0.xml</Key>
+        <Value>2018-10-29T17:26:21.90459+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>O_tama1.fbx</Source>
+      <Name>O_tama1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1.xnb</Output>
+      <Time>2009-03-17T21:12:56+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\O_tama1_0.xml</Key>
+        <Value>2018-10-29T17:26:22.0339339+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1_tx_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2018-09-09T20:51:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sirokuro.dds</Source>
+      <Name>sirokuro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro.xnb</Output>
+      <Time>2008-06-09T16:41:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>exit_white.png</Source>
+      <Name>exit_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\exit_white.xnb</Output>
+      <Time>2012-05-18T12:58:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>exit_yellow.png</Source>
+      <Name>exit_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\exit_yellow.xnb</Output>
+      <Time>2012-05-18T12:58:40+09:00</Time>
+    </Item>
+    <Item>
+      <Source>option_white.png</Source>
+      <Name>option_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\option_white.xnb</Output>
+      <Time>2012-05-18T12:58:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>option_yellow.png</Source>
+      <Name>option_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\option_yellow.xnb</Output>
+      <Time>2012-05-18T12:58:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>start_white.png</Source>
+      <Name>start_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\start_white.xnb</Output>
+      <Time>2012-05-18T12:58:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>start_yellow.png</Source>
+      <Name>start_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\start_yellow.xnb</Output>
+      <Time>2012-05-18T12:58:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Player_0.xml</Output>
+      <Time>2018-09-08T00:25:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>yuka.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\yuka_0.xml</Output>
+      <Time>2008-06-09T17:29:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>sirokuro.dds</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\sirokuro_0.xnb</Output>
+      <Time>2008-06-09T16:41:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Enemy_0.xml</Output>
+      <Time>2018-09-18T16:35:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\87502A5B\Enemy.fbm\outUV2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\FBX\87502A5B\Enemy.fbm\outUV2_0.xnb</Output>
+      <Time>2018-10-29T17:28:06.3049933+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerMini.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\PlayerMini_0.xml</Output>
+      <Time>2018-10-19T08:33:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>O_tama1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\O_tama1_0.xml</Output>
+      <Time>2009-03-17T21:12:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>O_tama1_tx.dds</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\O_tama1_tx_0.xnb</Output>
+      <Time>2009-03-17T21:03:52+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alpha\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-04-19T00:22:52.9029363+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

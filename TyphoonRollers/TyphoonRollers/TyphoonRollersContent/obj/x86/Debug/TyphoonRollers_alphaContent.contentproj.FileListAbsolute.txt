@@ -1,0 +1,4 @@
+C:\Users\bermu\Documents\Visual Studio 2015\project\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\obj\x86\Debug\TyphoonRollers_alphaContent.contentprojResolveAssemblyReference.cache
+C:\Users\bermu\Desktop\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\obj\x86\Debug\TyphoonRollers_alphaContent.contentprojResolveAssemblyReference.cache
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\obj\x86\Debug\TyphoonRollers_alphaContent.contentprojAssemblyReference.cache
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\obj\x86\Debug\TyphoonRollers_alphaContent.contentproj.CoreCompileInputs.cache

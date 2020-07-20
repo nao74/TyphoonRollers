@@ -1,0 +1,3 @@
+C:\Users\bermu\iCloudDrive\Program\Game\TyphoonRollers_alpha\TyphoonRollers_alpha\TyphoonRollers_alphaContent\obj\x86\Debug\TyphoonRollersContent.contentproj.CoreCompileInputs.cache
+C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollersContent\obj\x86\Debug\TyphoonRollersContent.contentprojAssemblyReference.cache
+C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollersContent\obj\x86\Debug\TyphoonRollersContent.contentproj.CoreCompileInputs.cache

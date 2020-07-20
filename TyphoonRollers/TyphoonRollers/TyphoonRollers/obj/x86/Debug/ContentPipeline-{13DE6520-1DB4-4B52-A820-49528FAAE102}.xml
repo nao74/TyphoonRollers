@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Model\Player.fbx</Source>
+      <Name>Model\Player</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Model\Player.xnb</Output>
+      <Time>2018-12-10T21:44:08+09:00</Time>
+      <Dependency>
+        <Key>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\Player_0.xml</Key>
+        <Value>2019-01-15T10:49:55.0351419+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\jiki4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\stage.fbx</Source>
+      <Name>Model\stage</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Model\stage.xnb</Output>
+      <Time>2018-12-10T21:43:54+09:00</Time>
+      <Dependency>
+        <Key>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\stage_0.xml</Key>
+        <Value>2019-01-15T10:49:55.5627331+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\2_0.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVturo2_0.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVkabe2_0.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVst22_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\PlayerMini.fbx</Source>
+      <Name>Model\PlayerMini</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Model\PlayerMini.xnb</Output>
+      <Time>2018-12-10T21:44:06+09:00</Time>
+      <Dependency>
+        <Key>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\PlayerMini_0.xml</Key>
+        <Value>2019-01-15T10:49:57.6072645+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\jiki4_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\Enemy.fbx</Source>
+      <Name>Model\Enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="ResizeTexturesToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Model\Enemy.xnb</Output>
+      <Time>2018-12-10T21:44:08+09:00</Time>
+      <Dependency>
+        <Key>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\Enemy_0.xml</Key>
+        <Value>2019-01-15T10:49:57.9134458+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUV2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\bossStage.fbx</Source>
+      <Name>Model\bossStage</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Model\bossStage.xnb</Output>
+      <Time>2018-12-10T21:43:50+09:00</Time>
+      <Dependency>
+        <Key>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\bossStage_0.xml</Key>
+        <Value>2019-01-15T10:49:59.4892878+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\2_1.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVkabe2_1.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVturo2_1.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVst22_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\1012.fbx</Source>
+      <Name>Model\1012</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Model\1012.xnb</Output>
+      <Time>2019-01-12T16:24:46+09:00</Time>
+      <Dependency>
+        <Key>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\1012_0.xml</Key>
+        <Value>2019-01-15T10:50:01.524791+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUV2_1.xnb</Request>
+      <Request>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUV_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2018-12-10T21:44:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2018-12-10T21:44:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2018-12-10T21:44:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle\ParticleEffect.fx</Source>
+      <Name>Particle\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Particle\ParticleEffect.xnb</Output>
+      <Time>2018-12-10T21:44:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2018-12-10T21:44:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\TitleLogo.PNG</Source>
+      <Name>Texture\TitleLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\TitleLogo.xnb</Output>
+      <Time>2018-12-10T21:44:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Select.png</Source>
+      <Name>Texture\Select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\Select.xnb</Output>
+      <Time>2018-12-10T21:44:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Title.png</Source>
+      <Name>Texture\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\Title.xnb</Output>
+      <Time>2018-12-10T21:44:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\score.png</Source>
+      <Name>Texture\score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\score.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\time.png</Source>
+      <Name>Texture\time</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\time.xnb</Output>
+      <Time>2018-12-10T21:44:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\hpPlate.png</Source>
+      <Name>Texture\hpPlate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\hpPlate.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\hpBase.png</Source>
+      <Name>Texture\hpBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\hpBase.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\HP1.png</Source>
+      <Name>Texture\HP1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\HP1.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\HP2.png</Source>
+      <Name>Texture\HP2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\HP2.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\HP3.png</Source>
+      <Name>Texture\HP3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\HP3.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\HP4.png</Source>
+      <Name>Texture\HP4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\HP4.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\HP5.png</Source>
+      <Name>Texture\HP5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\HP5.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\clear.png</Source>
+      <Name>Texture\clear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\clear.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\over.png</Source>
+      <Name>Texture\over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\over.xnb</Output>
+      <Time>2018-12-10T21:44:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\push.png</Source>
+      <Name>Texture\push</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\push.xnb</Output>
+      <Time>2018-12-10T21:44:16+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTexture\EnemyAttackParticle.png</Source>
+      <Name>ParticleTexture\EnemyAttackParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\ParticleTexture\EnemyAttackParticle.xnb</Output>
+      <Time>2019-01-11T02:30:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTexture\EnemyDeadParticle.png</Source>
+      <Name>ParticleTexture\EnemyDeadParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\ParticleTexture\EnemyDeadParticle.xnb</Output>
+      <Time>2019-01-11T04:49:44+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTexture\NotRotationParticle.png</Source>
+      <Name>ParticleTexture\NotRotationParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\ParticleTexture\NotRotationParticle.xnb</Output>
+      <Time>2019-01-11T04:49:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleTexture\RotationParticle.png</Source>
+      <Name>ParticleTexture\RotationParticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\ParticleTexture\RotationParticle.xnb</Output>
+      <Time>2019-01-11T04:49:38+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\operation.png</Source>
+      <Name>Texture\operation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\operation.xnb</Output>
+      <Time>2019-01-13T17:47:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rankA.png</Source>
+      <Name>Texture\rankA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\rankA.xnb</Output>
+      <Time>2019-01-14T03:44:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rankB.png</Source>
+      <Name>Texture\rankB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\rankB.xnb</Output>
+      <Time>2019-01-14T03:59:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rankF.png</Source>
+      <Name>Texture\rankF</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\rankF.xnb</Output>
+      <Time>2019-01-14T03:59:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\rankS.png</Source>
+      <Name>Texture\rankS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\rankS.xnb</Output>
+      <Time>2019-01-14T04:00:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\result.png</Source>
+      <Name>Texture\result</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\result.xnb</Output>
+      <Time>2019-01-12T19:42:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\stage.png</Source>
+      <Name>Texture\stage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\stage.xnb</Output>
+      <Time>2019-01-14T03:33:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\boss.wav</Source>
+      <Name>Sound\boss</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\boss.xnb</Output>
+      <Time>2018-12-10T21:44:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\start.wav</Source>
+      <Name>Sound\start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\start.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo1.mp3</Source>
+      <Name>Sound\combo1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo1.xnb</Output>
+      <Time>2018-12-10T21:44:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo2.mp3</Source>
+      <Name>Sound\combo2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo2.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo3.mp3</Source>
+      <Name>Sound\combo3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo3.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo4.mp3</Source>
+      <Name>Sound\combo4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo4.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo5.mp3</Source>
+      <Name>Sound\combo5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo5.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo6.mp3</Source>
+      <Name>Sound\combo6</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo6.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\combo7.mp3</Source>
+      <Name>Sound\combo7</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\combo7.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectDown.mp3</Source>
+      <Name>Sound\selectDown</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectDown.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectEnter.mp3</Source>
+      <Name>Sound\selectEnter</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectEnter.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectUp.mp3</Source>
+      <Name>Sound\selectUp</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectUp.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectTest.mp3</Source>
+      <Name>Sound\selectTest</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectTest.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectTest2.mp3</Source>
+      <Name>Sound\selectTest2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectTest2.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectTest3.mp3</Source>
+      <Name>Sound\selectTest3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectTest3.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\selectTest4.mp3</Source>
+      <Name>Sound\selectTest4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\selectTest4.xnb</Output>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\normalScene.mp3</Source>
+      <Name>Sound\normalScene</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\normalScene.xnb</Output>
+      <Extra>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\normalScene.wma</Extra>
+      <Time>2018-12-10T21:43:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\titleScene.mp3</Source>
+      <Name>Sound\titleScene</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\titleScene.xnb</Output>
+      <Extra>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\titleScene.wma</Extra>
+      <Time>2018-12-10T21:44:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\comboTest.mp3</Source>
+      <Name>Sound\comboTest</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Sound\comboTest.xnb</Output>
+      <Time>2018-12-10T21:44:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Player.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\Player_0.xml</Output>
+      <Time>2018-12-10T21:44:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\D6C42608\Player.fbm\jiki4.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\jiki4_0.xnb</Output>
+      <Time>2019-01-15T10:49:54.9194504+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\stage.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\stage_0.xml</Output>
+      <Time>2018-12-10T21:43:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\B051258F\stage.fbm\2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\2_0.xnb</Output>
+      <Time>2019-01-15T10:49:55.4819474+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\B051258F\stage.fbm\outUVturo2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVturo2_0.xnb</Output>
+      <Time>2019-01-15T10:49:55.477002+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\B051258F\stage.fbm\outUVkabe2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVkabe2_0.xnb</Output>
+      <Time>2019-01-15T10:49:55.4789579+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\B051258F\stage.fbm\outUVst22.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVst22_0.xnb</Output>
+      <Time>2019-01-15T10:49:55.4799534+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\PlayerMini.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\PlayerMini_0.xml</Output>
+      <Time>2018-12-10T21:44:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\742327B5\PlayerMini.fbm\jiki4.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\jiki4_1.xnb</Output>
+      <Time>2019-01-15T10:49:57.5843258+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Enemy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\Enemy_0.xml</Output>
+      <Time>2018-12-10T21:44:08+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\B0472599\Enemy.fbm\outUV2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">true</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUV2_0.xnb</Output>
+      <Time>2019-01-15T10:49:57.8905355+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\bossStage.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\bossStage_0.xml</Output>
+      <Time>2018-12-10T21:43:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\4C312746\bossStage.fbm\2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\2_1.xnb</Output>
+      <Time>2019-01-15T10:49:59.4274507+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\4C312746\bossStage.fbm\outUVkabe2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVkabe2_1.xnb</Output>
+      <Time>2019-01-15T10:49:59.4244077+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\4C312746\bossStage.fbm\outUVturo2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVturo2_1.xnb</Output>
+      <Time>2019-01-15T10:49:59.4254038+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\4C312746\bossStage.fbm\outUVst22.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUVst22_1.xnb</Output>
+      <Time>2019-01-15T10:49:59.4264534+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\1012.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\Model\1012_0.xml</Output>
+      <Time>2019-01-12T16:24:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\8487243F\1012.fbm\outUV2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUV2_1.xnb</Output>
+      <Time>2019-01-15T10:50:01.5038468+09:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\FBX\8487243F\1012.fbm\outUV.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\outUV_0.xnb</Output>
+      <Time>2019-01-15T10:50:01.5028518+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\sousa.png</Source>
+      <Name>Texture\sousa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\Texture\sousa.xnb</Output>
+      <Time>2019-01-15T13:06:32.6128283+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{13DE6520-1DB4-4B52-A820-49528FAAE102}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\bermu\Desktop\TyphoonRollers\TyphoonRollers\TyphoonRollers\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-11-03T17:39:24.0349793+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
