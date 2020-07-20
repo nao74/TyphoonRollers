@@ -13,7 +13,7 @@
 # 動画
 
 # ゲーム起動方法
-- TyphoonRollers/TyphoonRollers/bin/x86/Debug/TyphoonRollers.exeを起動
+- TyphoonRollers/TyphoonRollers/TyphoonRollers/bin/x86/Debug/TyphoonRollers.exeを起動
 　　　　
 # 操作方法
 - A 　決定
