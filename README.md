@@ -6,6 +6,7 @@
 - 制作期間は約6ヶ月です。
 - XNA Game Studioを使い制作しました。
 - XNA Game Studio導入していないと動かないと思います。
+- ゲームデータだけの場合→ https://github.com/nao74/TyphoonRollers_ALL/tree/v1.0
 
 # サンプル画像
 <img src="https://user-images.githubusercontent.com/38421007/88132365-39d99c00-cc1a-11ea-9ee7-e06739f558ef.png" width="320px" height="201px"> <img src="https://user-images.githubusercontent.com/38421007/88132435-6f7e8500-cc1a-11ea-9073-7a55c9a5cf7e.png" width="320px" height="201px"> <img src="https://user-images.githubusercontent.com/38421007/88132492-92a93480-cc1a-11ea-82bd-208810742d71.png" width="320px" height="201px">
