@@ -8,7 +8,7 @@
 - XNA Game Studio導入していないと動かないと思います。
 
 # サンプル画像
-
+<img src="https://user-images.githubusercontent.com/38421007/88132365-39d99c00-cc1a-11ea-9ee7-e06739f558ef.png" width="320px" height="201px"> <img src="https://user-images.githubusercontent.com/38421007/88132435-6f7e8500-cc1a-11ea-9073-7a55c9a5cf7e.png" width="320px" height="201px"> <img src="https://user-images.githubusercontent.com/38421007/88132492-92a93480-cc1a-11ea-82bd-208810742d71.png" width="320px" height="201px">
 
 # 動画
 - https://youtu.be/W9E8NDN1L2w
