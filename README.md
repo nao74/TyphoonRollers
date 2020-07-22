@@ -11,7 +11,7 @@
 
 
 # 動画
-
+- https://youtu.be/W9E8NDN1L2w
 # ゲーム起動方法
 - TyphoonRollers/TyphoonRollers/TyphoonRollers/bin/x86/Debug/TyphoonRollers.exeを起動
 　　　　
